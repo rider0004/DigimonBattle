@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_Bulkmon
+  m_Controller: {fileID: 9100000, guid: 8dfcba10f84cb864ea080155e3c65d45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 39fb1d15602d93f44b1ee3388b552c79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1b8318b10894f524f8d65ec54fdcf7a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 065d2e219b5bdc04ba47d8abaf0a372e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 60c9f51c653686f4db7824ba54d95f07, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c039ef106f8e614d93d4ce5f807a2fe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 456f1cd403659af4a8a989d8b681b496, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7b6618cd6e52b064fb017bbeda230574, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fd5431c5307e49e4791773a40ab74960, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7cb34cb2205460d4b8b54c8cc7591159, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 71d7fca654801d543b3a501ff6a67c05, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c40b3f8ad87ff104b9187e5d14358ccb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9309a590d3578c7418f2317aef02a6f7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9b82b70f4137af544933bf9b1577d53a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 56a98ebea6157934dae6bbd529071153, type: 2}

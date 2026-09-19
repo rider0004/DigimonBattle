@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5c3772f6d71dd48bd5eb93b933d121, type: 3}
+  m_Name: DigimonIndex
+  m_EditorClassIdentifier: Assembly-CSharp::DigimonIndex
+  list:
+  - {fileID: 11400000, guid: c90fa2e640835644b8f2fc1bf5832080, type: 2}
+  - {fileID: 11400000, guid: e3d3de1f8f453f842ab26ec7805e9e28, type: 2}
+  - {fileID: 11400000, guid: debba4b7bdb42a440be8a5afc58e0678, type: 2}
+  - {fileID: 11400000, guid: 4554872e496b74f45ba05e069ac3016e, type: 2}
+  - {fileID: 11400000, guid: 9572a0236cad194409850898dbaa39a7, type: 2}
+  - {fileID: 11400000, guid: daaa5dbe4f99e6b4ca3e7591ea83af23, type: 2}

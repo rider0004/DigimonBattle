@@ -1,0 +1,5 @@
+from,to,priority,required,eggReturned,battleCount,winRate,trainingCount,trainingComplete,health,attack,defence,intelligence,spirit,speed,vaccine,data,virus,cryptid,beast,aquatic,bird,machine,bug,plant,seraph,demon
+Bibimon,Pulsemon,0,[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pulsemon,Bulkmon,0,[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bulkmon,Boutmon,0,[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boutmon,Kazuchimon,0,[],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

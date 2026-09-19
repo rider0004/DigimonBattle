@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b095393080747874ba6398c073faa024, type: 3}
+  m_Name: Seadramon
+  m_EditorClassIdentifier: Assembly-CSharp::DigimonData
+  digimonId: Seadramon
+  displayName: Seadramon
+  level: 4
+  description: 
+  elements: 01000000
+  archtypes: 
+  basicSkill: 
+  uniqueSkill: 
+  health: 1100
+  attack: 1200
+  defence: 1100
+  intelligence: 500
+  spirit: 1000
+  speed: 1100
+  vaccine: 0
+  data: 30
+  virus: 0
+  cryptid: 8
+  beast: 0
+  aquatic: 24
+  bird: 0
+  machine: 0
+  bug: 0
+  plant: 0
+  seraph: 0
+  demon: 0
+  wide: 44
+  overrideController: {fileID: 22100000, guid: a7500540f47291d45b8a243725980483, type: 2}

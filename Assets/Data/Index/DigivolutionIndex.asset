@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f77b288fe0353043affbacca76f0227, type: 3}
+  m_Name: DigivolutionIndex
+  m_EditorClassIdentifier: Assembly-CSharp::DigivolutionIndex
+  list:
+  - {fileID: 11400000, guid: 4a87ef1162236e74a8c9dae7672b5bd6, type: 2}
+  - {fileID: 11400000, guid: 2743c83a18c6c974c87c7e182d715075, type: 2}
+  - {fileID: 11400000, guid: a8bf34a7b7294294ea5d01100dee876c, type: 2}
+  - {fileID: 11400000, guid: 682b6ecf3a356e44f9325bfb132af524, type: 2}
+  - {fileID: 11400000, guid: 8fa96f941a7c0eb4799ae7e9c12b1bed, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b095393080747874ba6398c073faa024, type: 3}
+  m_Name: Kazuchimon
+  m_EditorClassIdentifier: Assembly-CSharp::DigimonData
+  digimonId: Kazuchimon
+  displayName: Kazuchimon
+  level: 6
+  description: 
+  elements: 0700000008000000
+  archtypes: 
+  basicSkill: 
+  uniqueSkill: 
+  health: 2700
+  attack: 3000
+  defence: 2700
+  intelligence: 1300
+  spirit: 2600
+  speed: 2700
+  vaccine: 80
+  data: 0
+  virus: 0
+  cryptid: 0
+  beast: 48
+  aquatic: 0
+  bird: 0
+  machine: 0
+  bug: 0
+  plant: 0
+  seraph: 32
+  demon: 0
+  wide: 61
+  overrideController: {fileID: 22100000, guid: ff5fd7a8f31fd8b4ab78a759c10c92d4, type: 2}

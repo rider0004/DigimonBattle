@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b095393080747874ba6398c073faa024, type: 3}
+  m_Name: Bibimon
+  m_EditorClassIdentifier: Assembly-CSharp::DigimonData
+  digimonId: Bibimon
+  displayName: Bibimon
+  level: 2
+  description: 
+  elements: 07000000
+  archtypes: 
+  basicSkill: 
+  uniqueSkill: 
+  health: 900
+  attack: 1000
+  defence: 900
+  intelligence: 500
+  spirit: 800
+  speed: 900
+  vaccine: 64
+  data: 64
+  virus: 64
+  cryptid: 8
+  beast: 48
+  aquatic: 16
+  bird: 16
+  machine: 24
+  bug: 16
+  plant: 16
+  seraph: 32
+  demon: 16
+  wide: 27
+  overrideController: {fileID: 22100000, guid: 20974dbe9aa48cc4fac94f9e49a50b7f, type: 2}

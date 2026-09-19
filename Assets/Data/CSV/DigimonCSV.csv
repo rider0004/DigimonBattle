@@ -1,0 +1,7 @@
+﻿digimonId,displayName,level,elements,archtypes,basicSkill,uniqueSkill,health,attack,defence,intelligence,spirit,speed,vaccine,data,virus,cryptid,beast,aquatic,bird,machine,bug,plant,seraph,demon,description,wide
+Bibimon,Bibimon,2,[thunder],[],,,900,1000,900,500,800,900,64,64,64,8,48,16,16,24,16,16,32,16,,27
+Pulsemon,Pulsemon,3,[thunder],[],,,1100,1200,1100,500,1000,1100,30,0,0,0,24,0,0,0,0,0,8,0,,40
+Bulkmon,Bulkmon,4,"[thunder, earth]",[],,,1500,1600,1500,600,1400,1400,48,0,0,0,32,0,0,0,0,0,16,0,,59
+Boutmon,Boutmon,5,"[thunder, earth]",[],,,2000,2200,2000,800,1900,2100,64,0,0,0,48,0,0,0,0,0,16,0,,59
+Kazuchimon,Kazuchimon,6,"[thunder, light]",[],,,2700,3000,2700,1300,2600,2700,80,0,0,0,48,0,0,0,0,0,32,0,,61
+Seadramon,Seadramon,4,[water],[],,,1100,1200,1100,500,1000,1100,0,30,0,8,0,24,0,0,0,0,0,0,,44
